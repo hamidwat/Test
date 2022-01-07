@@ -1,0 +1,2 @@
+I prefer to use git or any other local version control, then colleagues can access it.
+This way, we can track possible changes (who has made what changes, when, and why) and also revert our project to an earlier state.
